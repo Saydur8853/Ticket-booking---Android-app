@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ticket Booking</string>
+
+    <string-array name="Select_district">
+        <item>Select District</item>
+        <item>Feni</item>
+        <item>Rajshahi</item>
+        <item>Noakhali</item>
+        <item>Borishal</item>
+
+    </string-array>
+
+
+    <string-array name="Select_class">
+        <item>Select Class</item>
+        <item>AC</item>
+        <item>Non-AC</item>
+
+    </string-array>
+
+    <string-array name="Select_quantity">
+        <item>Select Quantity</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="Select_bus">
+        <item>Select Bus</item>
+        <item>Green Line</item>
+        <item>Star Line</item>
+        <item>Ena</item>
+        <item>Hanif</item>
+        <item>Dream Line</item>
+    </string-array>
+
+
+</resources>
